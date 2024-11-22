@@ -1,4 +1,4 @@
-![Header]()
+
 
 <h1 align="center">Hi 👋, I'm Deepika Yadav</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
