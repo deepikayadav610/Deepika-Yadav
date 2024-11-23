@@ -1,4 +1,4 @@
-![Header](https://github.com/deepikayadav610/Deepika-Yadav/blob/main/github-header-image%20(2).png )
+![Header](https://github.com/deepikayadav610/Deepika-Yadav/blob/main/github-header-image%20(4).png)
 
 <h1 align="center">Hi 👋, I'm Deepika Yadav</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
